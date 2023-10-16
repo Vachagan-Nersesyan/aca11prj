@@ -16,7 +16,7 @@
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _test_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./test.js */ \"./src/test.js\");\n\r\n\r\nconsole.log((0,_test_js__WEBPACK_IMPORTED_MODULE_0__.foo)(5))\n\n//# sourceURL=webpack:///./src/index.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _test_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./test.js */ \"./src/test.js\");\n\r\n\r\nconsole.log((0,_test_js__WEBPACK_IMPORTED_MODULE_0__.foo)(5))\r\n\r\nconst r = document.getElementById('root')\r\nr.innerHTML = `<h1>weffweefw</h1>`\n\n//# sourceURL=webpack:///./src/index.js?");
 
 /***/ }),
 
